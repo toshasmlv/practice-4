@@ -13,5 +13,3 @@ try:
     # Display result with 6 decimal places
     print(f"Output radian: {radians:.6f}")
     
-except ValueError:
-    print("Please enter a valid number")

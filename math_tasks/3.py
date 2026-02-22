@@ -19,6 +19,3 @@ try:
         
         # Display result
         print(f"The area of the polygon is: {area}")
-        
-except ValueError:
-    print("Please enter valid numbers")

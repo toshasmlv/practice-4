@@ -26,5 +26,3 @@ try:
     # Display result
     print(f"Expected Output: {area}")
     
-except ValueError:
-    print("Please enter valid numbers")
